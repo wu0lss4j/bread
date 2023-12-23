@@ -15,7 +15,7 @@ func main() {
 
 	fmt.Println("*************************************************")
 	fmt.Println("Welcome to the best sourdough recipe in the World")
-	fmt.Println("This will be good for a 1.7 kg bread sourdough")
+	fmt.Println("This will be good for ~1.7 kg bread sourdough")
 	fmt.Println("This assumes you have already made your starter")
 	fmt.Println("Starter is 50% water and 50% Rogen flour")
 	fmt.Println("*************************************************")
