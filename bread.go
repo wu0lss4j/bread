@@ -47,6 +47,7 @@ func main() {
 	salt := 0.02 * (1000 + 0.5*starter)
 	solids := 1000 + 0.5*starter + salt
 	water := ratio*solids - 0.5*starter
+	total := starter + salt + water + 1000
 
 	fmt.Printf("Step 1: add %7.1f g starter\n", starter)
 	fmt.Printf("Step 2: add %7.1f g salt\n", salt)
@@ -54,5 +55,6 @@ func main() {
 	fmt.Printf("Step 4: add %7.1f g Vollkorn Dinkel flour\n", 100.0)
 	fmt.Printf("Step 5: add %7.1f g T1065 Dinkel flour\n", 250.0)
 	fmt.Printf("Step 6: add %7.1f g T630 Dinkel flour\n", 650.0)
+	fmt.Printf("Your sourdough will weigh: %7.1f g\n", total)
 	fmt.Printf("\n ...now go follow the rest of the instructions!")
 }
