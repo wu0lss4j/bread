@@ -1,5 +1,5 @@
 // 21.12.2023 aqui vou eu experimentar golang
-//
+// 23.12.2023 bread recipe as golang code
 //
 
 package main
