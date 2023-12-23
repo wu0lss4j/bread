@@ -53,8 +53,8 @@ func main() {
 	fmt.Printf("Step 2: add %7.1f g salt\n", salt)
 	fmt.Printf("Step 3: add %7.1f g water\n", water)
 	fmt.Printf("Step 4: add %7.1f g Vollkorn Dinkel flour\n", 100.0)
-	fmt.Printf("Step 5: add %7.1f g T1065 Dinkel flour\n", 250.0)
+	fmt.Printf("Step 5: add %7.1f g T1050 Dinkel flour\n", 250.0)
 	fmt.Printf("Step 6: add %7.1f g T630 Dinkel flour\n", 650.0)
-	fmt.Printf("Your sourdough will weigh: %7.1f g\n", total)
+	fmt.Printf("Your sourdough total weight: %7.1f g\n", total)
 	fmt.Printf("\n ...now go follow the rest of the instructions!")
 }
