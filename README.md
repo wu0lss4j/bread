@@ -7,3 +7,7 @@ In short, this is a sourdough bread recipe which I learned and perfected during 
 Now, in it's current iteration it is not a comprehensive recipe, this means it will not teach you how to mix, shape, score, bake, etc. Maybe in the future I will add more steps, and even some pictures.
 
 DISCLAIMER: I take absolutely no responsibility for whatever happens to you, or your friends and loved ones, or any property, virtual or physical, now and forever.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wu0lss4j/bread&type=Date)](https://star-history.com/#wu0lss4j/bread&Date)
